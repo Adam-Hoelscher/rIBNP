@@ -1,11 +1,10 @@
 Package: rIBNP
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Estimate IBNP using lag data
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Adam Hoelscher
+Maintainer: Adam Hoelscher <adam.hoelscher@gmail.com>
+Description: This package contains functions to estimate Incurred But Not Paid claims for insurance. At the beginning the package is focused on commercial (not CMS) health (medical, dental, and vision) plans based in the United States.
+License: GNU GPLv3
 Encoding: UTF-8
 LazyData: true
